@@ -1,0 +1,36 @@
+.heading {
+    color: #132d84;
+    font-family: "Bold";
+    font-size: 50px;
+    font-weight: 14;
+    padding: 50px;
+    text-align: center;
+}
+
+.paragraph1 {
+    color: green;
+    font-family: "italic";
+    font-size: 50px;
+    font-weight: normal;
+    padding: 50px;
+    text-align: center;
+}
+
+.paragraph2 {
+    color: #132d84;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: normal;
+    padding: 50px;
+    text-align: center;
+}
+.button1 {
+    color: #132d84;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: normal;
+    padding: 50px;
+    text-align: center;
+    background-color: gold;
+}
+
